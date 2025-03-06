@@ -161,7 +161,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Solver/IdastarSolver.h",
+			"path" : "Solver/IDASTARSolver.h",
 			"sourceGroupIndex" : 1
 		},
 		{
